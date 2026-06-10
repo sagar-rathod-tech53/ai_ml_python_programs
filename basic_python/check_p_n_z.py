@@ -1,3 +1,5 @@
+# Check positive, Nigative and Zero values
+
 num = int(input("Enter the number: "))
 
 
