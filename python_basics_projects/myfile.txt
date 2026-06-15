@@ -1,0 +1,5 @@
+Roll_No	Name	Age	Class	Marks
+{role_no}	{name}	{age}	{classd}	{marks}
+1	sagar	6	1	60
+5	sagar	35	15	35
+3	sagar	20	13	50
